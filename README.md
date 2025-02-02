@@ -12,8 +12,8 @@ Este proyecto es una aplicación web para gestionar un catálogo de recetas de c
 ### Clonar el repositorio
 
 ```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Tony0005/RecipeCatalog.git
+cd RecipeCatalog
 
 
 En la raíz del proyecto, ejecuta el siguiente comando para construir y ejecutar los contenedores de Docker:
