@@ -31,3 +31,8 @@ Comandos útiles
 Ejecutar pruebas
 Para ejecutar las pruebas del backend, usa el siguiente comando:
 docker-compose run backend python manage.py test
+
+Mejoras potenciales:
+-Mejorar el Diseño para tener una mejor experiencia de usuario.
+-Mejoras en el formato y la estructura para mayor claridad.
+-Añadir una estructura para que cada receta pueda tener varias imagenes.
