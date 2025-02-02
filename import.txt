@@ -1,0 +1,3 @@
+
+Activar Entorno:
+.\env\Scripts\activate

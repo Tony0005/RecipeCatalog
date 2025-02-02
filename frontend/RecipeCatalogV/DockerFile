@@ -1,0 +1,15 @@
+FROM node:18
+
+# Set work directory
+WORKDIR /app
+
+# Install dependencies
+COPY package*.json ./
+RUN npm install
+
+# Copy project
+COPY . .
+
+# Expose port and start application
+EXPOSE 5173
+CMD ["npm", "run", "dev"]
